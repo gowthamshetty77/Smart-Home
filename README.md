@@ -4,7 +4,7 @@ A modern web-based interface to monitor and manage smart home devices, providing
 
 ## Developed By 🚀
 **Gowtham**  
-[GitHub Profile](https://github.com/your-profile)
+[GitHub Profile](https://github.com/gowthamshetty77)
 
 ## Features 🛠️
 - Real-time device control interface
